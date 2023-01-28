@@ -1,0 +1,9 @@
+INSERT INTO `registeration`(`name`, `gender`, `mobile`, `mail`, `blood`, `age`, `medication`, `location`, `password`) VALUES
+('Yash Singhal','Male','1234567890','yash@gmail.com','O+','20','N','Chandigarh','Yash@123'),
+('Chandan','Male','0987654321','chandan@gmail.com','O+','21','N','Chandigarh','Chandan@123'),
+('Raghav','Male','1234567890','raghav@gmail.com','B+','20','N','Chandigarh','Raghav@123'),
+('Shinchan','Male','0987654321','shinchan@gmail.com','A+','19','N','Delhi','Shinchan@123'),
+('Nobita','Male','1234567890','nobita@gmail.com','AB+','19','N','Gujarat','Nobita@123'),
+('Shizuka','Female','0987654321','shizuka@gmail.com','O-','19','N','Tamil Nadu','Shizuka@123'),
+('Ichan','Female','1234567890','ichan@gmail.com','AB-','19','N','Assam','Ichan@123'),
+('Ninja Hattori','Male','0987654321','ninja@gmail.com','A-','20','N','Himachal Pradesh','Ninja@123')
